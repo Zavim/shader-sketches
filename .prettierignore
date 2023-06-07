@@ -1,0 +1,5 @@
+#ignore shaders
+*.frag
+*.vert
+*.vs
+*.glsl
